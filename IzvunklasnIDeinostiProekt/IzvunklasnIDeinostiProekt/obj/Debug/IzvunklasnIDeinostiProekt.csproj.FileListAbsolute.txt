@@ -1,0 +1,8 @@
+C:\Users\stili\source\repos\IzvunklasnIDeinostiProekt\IzvunklasnIDeinostiProekt\bin\Debug\IzvunklasnIDeinostiProekt.exe.config
+C:\Users\stili\source\repos\IzvunklasnIDeinostiProekt\IzvunklasnIDeinostiProekt\bin\Debug\IzvunklasnIDeinostiProekt.exe
+C:\Users\stili\source\repos\IzvunklasnIDeinostiProekt\IzvunklasnIDeinostiProekt\bin\Debug\IzvunklasnIDeinostiProekt.pdb
+C:\Users\stili\source\repos\IzvunklasnIDeinostiProekt\IzvunklasnIDeinostiProekt\obj\Debug\IzvunklasnIDeinostiProekt.csproj.AssemblyReference.cache
+C:\Users\stili\source\repos\IzvunklasnIDeinostiProekt\IzvunklasnIDeinostiProekt\obj\Debug\IzvunklasnIDeinostiProekt.csproj.SuggestedBindingRedirects.cache
+C:\Users\stili\source\repos\IzvunklasnIDeinostiProekt\IzvunklasnIDeinostiProekt\obj\Debug\IzvunklasnIDeinostiProekt.csproj.CoreCompileInputs.cache
+C:\Users\stili\source\repos\IzvunklasnIDeinostiProekt\IzvunklasnIDeinostiProekt\obj\Debug\IzvunklasnIDeinostiProekt.exe
+C:\Users\stili\source\repos\IzvunklasnIDeinostiProekt\IzvunklasnIDeinostiProekt\obj\Debug\IzvunklasnIDeinostiProekt.pdb
